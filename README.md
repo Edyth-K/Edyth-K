@@ -5,7 +5,7 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)!
 - 🌱 Currently learning [Full Stack through The Odin Project] and [Containerization + Docker].
 - ⚡ Avid gamer; if I'm not coding you can find me raiding in FFXIV or grinding out games of TFT!
-- 
+
 <!--
 **Edyth-K/Edyth-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
