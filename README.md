@@ -3,7 +3,7 @@
 - 👯 I’m looking for an entry level position in software engineering or game programming!
 - 🎓 Graduating from Toronto Metropolitan University with a B.Sc. in Computer Science in June 2024.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)!
-- 🌱 Currently learning [Full Stack through The Odin Project] and [Containerization + Docker].
+- 🌱 Currently learning [Full Stack through The Odin Project], [CS50's Intro to AI w/ Python], and [Containerization + Docker].
 - ⚡ Avid gamer; if I'm not coding you can find me raiding in FFXIV or grinding out games of TFT!
 
 <!--
