@@ -6,7 +6,6 @@
 - 🌱 Currently learning:
   - Full Stack JS via The Odin Project
   - AI with Python via CS50AI
-  - Containerization + Docker
 - ⚡ Avid gamer; if I'm not coding you can find me raiding in FFXIV or grinding out games of TFT!
 
 <!--
