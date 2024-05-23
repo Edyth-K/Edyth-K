@@ -4,7 +4,6 @@
 - 🎓 Graduating from Toronto Metropolitan University with a B.Sc. in Computer Science in June 2024.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)!
 - 🌱 Currently learning:
-  - Full Stack JS via The Odin Project
   - AI with Python via CS50AI
 - ⚡ Avid gamer; if I'm not coding you can find me raiding in FFXIV or grinding out games of TFT!
 
