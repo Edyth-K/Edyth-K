@@ -4,6 +4,7 @@
 - 🎓 Graduating from Toronto Metropolitan University with a B.Sc. in Computer Science in June 2024.
 - 💻 Recently completed [Marine Legacy](https://edyth-k.itch.io/marine-legacy) (May 2024) for a [Game Jam](https://itch.io/jam/-pixel-game-jam-2024)! Try it out!
 - 🌱 Currently learning:
+  - Unity, C#   
   - AI with Python via CS50AI
 - ⚡ Avid gamer; if I'm not coding you can find me raiding in FFXIV or grinding out games of TFT!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)! 
