@@ -2,9 +2,8 @@
 
 - 👯 I’m looking for a role in back-end engineering or game programming!
 - 🎓 B.Sc. in Computer Science @ Toronto Metropolitan University (June 2024).
-- 🌱 Currently learning:
-  - AI with Python via CS50AI
-- ⚡ Avid gamer; MMORPG enthusiast and casual gacha enjoyer.
+- 💻 C++ / Python enthusiast.
+- ⚡ Avid gamer; FFXIV, Valorant, TFT, League
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)! 
 <!--
 **Edyth-K/Edyth-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
