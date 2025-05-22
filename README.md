@@ -2,7 +2,7 @@
 
 - 👯 I’m looking for a role in back-end engineering or game programming!
 - 🎓 B.Sc. in Computer Science @ Toronto Metropolitan University (June 2024).
-- 💻 C++ / Python enthusiast.
+- 💻 Python enthusiast.
 - ⚡ Avid gamer; FFXIV, Valorant, TFT, League
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)! 
 <!--
