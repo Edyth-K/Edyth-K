@@ -4,10 +4,10 @@
 - 🎓 B.Sc. in Computer Science @ Toronto Metropolitan University (June 2024).
 - 💻 Python enthusiast.
 - ⚡ Avid gamer; FFXIV, Valorant, TFT, League
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)! 
 <!--
 **Edyth-K/Edyth-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kelvin-dela-cruz/)! 
 Here are some ideas to get you started:
 - 💻 Recently completed [Marine Legacy](https://edyth-k.itch.io/marine-legacy) (May 2024) for a [Game Jam](https://itch.io/jam/-pixel-game-jam-2024)! Try it out!
 - 💻 I'm currently a Software Engineer I.
